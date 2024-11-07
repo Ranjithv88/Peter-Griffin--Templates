@@ -3,7 +3,7 @@ This project is a static website created using HTML, CSS, and JavaScript. It is 
 
 # WebSites 
 ### Live Demo : <https://ranjithv88.github.io/Peter-Griffin--Templates/>
-<p>this project host is Github.io , this is using to host the websites for demo perforces .</p>
+<p>this project host is Github.io , this is using to host the websites for demo purpose .</p>
 
 ### Sample ScreenShoot 
 ###### Peter Griffin WebSites Home Page <br>
